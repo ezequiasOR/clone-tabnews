@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "github.com/ezequiasOR",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
